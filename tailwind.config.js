@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/main/static/media/welcome-bg-2x-svg.25338f53.svg')",
+          "url('https://img.freepik.com/free-vector/success-startup-managers-working-near-growth-profit-chart-financial-achievement-work-progress-rocket-launch-tiny-corporate-people-flat-vector-illustration-finance-opportunity-concept_74855-22554.jpg')",
       },
     },
   },
